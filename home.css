@@ -1,0 +1,21 @@
+body{
+    background-color: peachpuff;
+}
+ul{
+    list-style-type: none;
+    background-color: sandybrown;
+    padding: 15px;
+    border-style: dotted;
+    margin: 20px;
+    
+}
+li{
+    display: inline;
+    margin-right: 15px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: olive;
+   
+}
